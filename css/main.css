@@ -338,9 +338,9 @@ main#home h1 {
 }
 
 .boxes div {
-  font-size: 2rem;
-  border: 3px #fff solid;
-  padding: 1.5rem 2.5rem;
+  font-size: 1.5rem;
+  border: 2px #fff solid;
+  padding: 1.3rem 2rem;
   margin-bottom: 3rem;
   -webkit-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
@@ -458,7 +458,7 @@ main#home h1 {
   }
   main .lg-heading {
     margin-top: 1rem;
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .projects {
     -ms-grid-columns: 1fr;
